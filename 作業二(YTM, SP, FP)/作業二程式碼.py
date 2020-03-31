@@ -37,8 +37,8 @@ ytm_str = str(round(ytm * 100, 2))
 print('YTM:' + ytm_str + '%')
 
 
-
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 #Part2: Spot Rate
 #Reference: https://www.trignosource.com/finance/spot%20rate.html
